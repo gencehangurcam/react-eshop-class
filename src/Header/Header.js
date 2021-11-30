@@ -1,5 +1,6 @@
 import react from "react";
-import Navbar from "./Navbar/Navbar";
+import Navbar from "./Navbar/Navbar"
+
 
 class Header extends react.Component {
 

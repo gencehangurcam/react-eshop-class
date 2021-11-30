@@ -1,13 +1,15 @@
-import './App.css';
 import Footer from './Footer/Footer'
 import Header from './Header/Header'
-import Navbar from './Header/Navbar/Navbar'
+import ShopSection from './ShopSection/ShopSection';
+
 
 function App() {
 
   return (
     <div>
       <Header />
+      <ShopSection />
+      <Footer />
     </div>
   );
 }
